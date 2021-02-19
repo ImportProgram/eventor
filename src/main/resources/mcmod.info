@@ -1,0 +1,14 @@
+[{
+  "modid": "IPEventor",
+  "name": "ImportProgram's Eventor",
+  "description": "Send HTTP requests with events!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://importprogram.me",
+  "updateUrl": "",
+  "authorList": ["ImportProgram"],
+  "credits": "To the internet because I had no clue how to make a mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
